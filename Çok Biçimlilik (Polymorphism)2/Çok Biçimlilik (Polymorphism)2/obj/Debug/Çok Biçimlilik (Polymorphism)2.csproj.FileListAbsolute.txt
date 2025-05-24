@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\bin\Debug\Çok Biçimlilik (Polymorphism)2.exe.config
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\bin\Debug\Çok Biçimlilik (Polymorphism)2.exe
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\bin\Debug\Çok Biçimlilik (Polymorphism)2.pdb
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\obj\Debug\Çok Biçimlilik (Polymorphism)2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\obj\Debug\Çok Biçimlilik (Polymorphism)2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\obj\Debug\Çok Biçimlilik (Polymorphism)2.exe
+C:\Users\mitha\source\repos\Çok Biçimlilik (Polymorphism)2\Çok Biçimlilik (Polymorphism)2\obj\Debug\Çok Biçimlilik (Polymorphism)2.pdb
